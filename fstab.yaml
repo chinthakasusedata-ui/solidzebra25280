@@ -1,7 +1,2 @@
 mountpoints:
-  /:
-    url: "https://author-p153710-e1614654.adobeaemcloud.com/bin/franklin.delivery/aemsitestrial/solidzebra25280/main"
-    type: "markup"
-    suffix: ".html"
-folders:
-  /products/: /products/default
+  /: https://drive.google.com/drive/u/1/folders/16Itqy48THPoWCozVNV2IqPm9gz7FamTG
